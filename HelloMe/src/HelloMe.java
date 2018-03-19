@@ -1,5 +1,5 @@
 /**
- * This program asks for the user's name and age, and says hello to the user.
+ * This program asks for the user's name and amount of love, and says display how much love they have, need, or don't need.
 <p>
  * @author      Nathan Saunders <njsaund @ gmail.com> 
  * @version     1.0
